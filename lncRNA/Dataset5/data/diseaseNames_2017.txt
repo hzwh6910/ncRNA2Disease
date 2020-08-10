@@ -1,0 +1,128 @@
+1	Glioma
+2	Barrett Esophagus
+3	Atherosclerosis
+4	Neoplasms
+5	Periodontitis
+6	Prostatic Neoplasms
+7	Fragile X Syndrome
+8	Alzheimer Disease
+9	Myositis, Inclusion Body
+10	Melanoma
+11	Breast Neoplasms
+12	Huntington Disease
+13	Testicular Neoplasms
+14	Endometrial Neoplasms
+15	Esophageal Squamous Cell Carcinoma
+16	Aortic Aneurysm, Abdominal
+17	Aortic Rupture
+18	Neoplasms, Basal Cell
+19	Myocardial Ischemia
+20	Diabetes Mellitus
+21	Endometriosis
+22	Intracranial Aneurysm
+23	Frailty
+24	Glaucoma
+25	Leukemia
+26	Myocardial Infarction
+27	Nasopharyngeal Carcinoma
+28	Neurofibromatoses
+29	Peripheral Arterial Disease
+30	Neurofibroma, Plexiform
+31	Stroke
+32	Diabetes Mellitus, Type 2
+33	Colorectal Neoplasms
+34	Bone Diseases
+35	Muscular Dystrophy, Facioscapulohumeral
+36	Leukemia, Lymphocytic, Chronic, B-Cell
+37	Leukemia, Lymphoid
+38	Lymphoma
+39	Ovarian Neoplasms
+40	Carcinoma, Embryonal
+41	Kidney Neoplasms
+42	Adrenocortical Carcinoma
+43	Beckwith-Wiedemann Syndrome
+44	Hydatidiform Mole
+45	Uterine Cervical Neoplasms
+46	Choriocarcinoma
+47	Colonic Neoplasms
+48	Congenital Hyperinsulinism
+49	Glioblastoma
+50	Hyperhomocysteinemia
+51	Infertility
+52	Liver Neoplasms
+53	Neuroectodermal Tumors, Primitive
+54	Meningioma
+55	Neural Tube Defects
+56	Neuroblastoma
+57	Obesity
+58	Pheochromocytoma
+59	Pituitary Neoplasms
+60	Prader-Willi Syndrome
+61	Pre-Eclampsia
+62	Silver-Russell Syndrome
+63	Adenocarcinoma
+64	Pancreatic Neoplasms
+65	Arthritis, Rheumatoid
+66	Multiple Sclerosis
+67	Diabetes Mellitus, Type 1
+68	Muscular Dystrophy, Duchenne
+69	Narcolepsy
+70	Parkinson Disease
+71	Neoplasms, Bone Tissue
+72	Gallbladder Neoplasms
+73	Leukemia, Myeloid, Acute
+74	Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+75	Myelodysplastic Syndromes
+76	Myopia
+77	Amyotrophic Lateral Sclerosis
+78	Frontotemporal Lobar Degeneration
+79	Psoriasis
+80	Burkitt Lymphoma
+81	Cleft Lip
+82	Hodgkin Disease
+83	Plasmacytoma
+84	Rhabdomyosarcoma
+85	Dyskeratosis Congenita
+86	Mucocutaneous Lymph Node Syndrome
+87	Angelman Syndrome
+88	Pancreaticobiliary Maljunction
+89	Neoplasms, Squamous Cell
+90	Klinefelter Syndrome
+91	Carcinoma, Renal Cell
+92	Polycystic Ovary Syndrome
+93	Multiple Myeloma
+94	Esophageal Neoplasms
+95	Kidney Failure, Chronic
+96	Colitis, Ulcerative
+97	Hemangioma
+98	Gastrointestinal Stromal Tumors
+99	Pneumoconiosis
+100	Asthma
+101	Lupus Erythematosus, Systemic
+102	Hypertension
+103	Pulmonary Arterial Hypertension
+104	Hepatoblastoma
+105	Leukemia, Promyelocytic, Acute
+106	Vitreoretinopathy, Proliferative
+107	Diabetic Retinopathy
+108	Retinoblastoma
+109	Osteoarthritis
+110	Cardiomyopathy, Dilated
+111	Metabolic Syndrome
+112	Nephrolithiasis
+113	Asthenozoospermia
+114	Intervertebral Disc Degeneration
+115	Cholangiocarcinoma
+116	Head and Neck Neoplasms
+117	Anemia, Aplastic
+118	Exfoliation Syndrome
+119	Congenital Microtia
+120	Astrocytoma
+121	Hirschsprung Disease
+122	Liver Cirrhosis
+123	Neuroectodermal Tumors, Primitive, Peripheral
+124	Acute Kidney Injury
+125	Leukemia, Myeloid
+126	Primary Myelofibrosis
+127	Lymphoma, Mantle-Cell
+128	Lymphoma, B-Cell

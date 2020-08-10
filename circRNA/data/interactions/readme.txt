@@ -1,0 +1,2 @@
+circRNA_Gene1是cd_adjmat中的gene关系；这里面有98个样本行空；
+disease_Gene1是cd_adjmat的gene关系；这里面有14个样本行空。

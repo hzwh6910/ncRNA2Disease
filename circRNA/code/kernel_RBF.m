@@ -1,0 +1,6 @@
+function k = kernel_RBF(X,Y,gamma)
+	r2 = repmat( sum(X.^2,2), 1, size(Y,1) ) ...
+	+ repmat( sum(Y.^2,2), 1, size(X,1) )' ...
+	- 2*X*Y' ;
+	k = exp(-r2*gamma); % RBF核矩阵
+end

@@ -1,0 +1,2 @@
+disease_sim1是疾病的语义相似度；	circSim1是根据disease的语义相似度得来的；
+
